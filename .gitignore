@@ -1,0 +1,9 @@
+# Los documentos fuente del expediente no forman parte del sitio.
+*.pdf
+private/
+tmp/
+.qa/
+__pycache__/
+node_modules/
+.DS_Store
+Thumbs.db
