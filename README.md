@@ -33,7 +33,7 @@ No existen datos oficiales de contacto autorizados; la invitación comercial rem
 
 ## Publicar en GitHub Pages
 
-GitHub Pages está configurado para publicar desde `main`, carpeta raíz, con HTTPS. Dirección del sitio: `https://yovani333.github.io/cumbre-menonita/`.
+GitHub Pages está configurado para publicar desde `main`, carpeta raíz, con HTTPS y el dominio personalizado de `CNAME`. Dirección del sitio: `https://cumbremenonita.com/`.
 
 Para publicar actualizaciones autorizadas:
 
@@ -52,3 +52,7 @@ node scripts/verify.mjs
 ```
 
 Estas revisiones no sustituyen una inspección visual. Consulta `VERIFICACION.md`.
+
+## Revisión del documento actualizado
+
+Consulta `ACTUALIZACIONES.md` para los cambios de catálogo, maduración y protección del producto, y para las secciones contrastadas que conservan su contenido. Los adjuntos fuente permanecen excluidos de Git.

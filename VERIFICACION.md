@@ -32,3 +32,12 @@ No se publicó en GitHub Pages; la compatibilidad se comprobó en un servidor lo
 Los recursos del catálogo son fotografías gastronómicas de referencia, no imágenes de productos propios. Para esta demostración no falta ningún recurso obligatorio. Los datos reales de contacto y fotografías propias solo serán necesarios si se transforma el proyecto académico en un sitio comercial real.
 
 Al cerrar esta revisión local no se habían creado commits, realizado push ni publicado el sitio. La publicación fue autorizada posteriormente por el usuario. La configuración remota comprobada corresponde a GitHub Pages, rama `main`, carpeta raíz y HTTPS.
+
+## Revisión posterior del documento de 61 páginas
+
+- Se comparó el texto completo de ambas versiones con independencia de la paginación. Misión y visión coinciden literalmente con el nuevo documento; el logotipo también coincide píxel por píxel.
+- Se actualizó el catálogo a Menonita de Crianza, con maduración de referencia de 14 a 30 días. Se añadieron rangos de referencia de Reserva y Añejo, protección en tres niveles y una síntesis de preparación documental del modelo transfronterizo. El alcance está registrado en `ACTUALIZACIONES.md`.
+- `node scripts/verify.mjs`: 19 IDs únicos, 36 referencias válidas, ocho etapas y contenido obligatorio actualizado. Sintaxis JavaScript y diferencias de Git comprobadas.
+- Revisión de catálogo y empaque en navegador local. Geometría del documento y textos a 320, 390, 768 y 1440 píxeles: sin desbordamientos detectados. Consola sin errores ni advertencias registrados.
+- El adjunto PDF y la carpeta de adjuntos están excluidos de Git. No se incorporan datos internos al sitio.
+- Se preserva el dominio `cumbremenonita.com` de los commits remotos y se actualizan URL canónica y metadatos sociales. GitHub confirma certificado aprobado y HTTPS obligatorio para ese dominio.

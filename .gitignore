@@ -1,5 +1,6 @@
 # Los documentos fuente del expediente no forman parte del sitio.
-*.pdf
+*.[pP][dD][fF]
+.codex-remote-attachments/
 private/
 tmp/
 .qa/
